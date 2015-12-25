@@ -5,5 +5,8 @@
 		<script src="/js/jquery-2.1.4.js"></script>
 	</head>
 	<body>
-		<?php echo "Hello"; ?>
+		<?php 
+			echo "Hello!"; 
+			echo "GitHub!";
+		?>
 
